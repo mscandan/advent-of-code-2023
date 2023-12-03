@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "github.com/mscandan/advent-of-code-2023/day01"
 
 func main() {
-	fmt.Println("Advent of Code 2023 Solutions")
+	day01.Solution()
 }
